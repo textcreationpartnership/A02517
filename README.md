@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The best bargaine A sermon preached to the Court at Theobalds. on Sunday, Sept. 21. 1623. By Ios. Ha
+
+1. TO THE RIGHT Honorable WILLIAM Earle of Pembroke, Lord High Chamberlaine; CHANCELLOVR of the Vniuersitie of Oxford; One of his MAIESTIES most Honorable Priuy Counsell.
+
 #####Body#####
-The best bargaine A sermon preached to the Court at Theobalds. on Sunday, Sept. 21. 1623. By Ios. Ha
+
+1. THE BEST Bargaine.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
